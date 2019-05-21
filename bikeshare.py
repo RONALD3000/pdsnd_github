@@ -182,7 +182,7 @@ def user_stats(df, city):
         common_year_of_birth = df['Birth Year'].value_counts().idxmax()
         print("Most popular year of birth: {}".format(common_year_of_birth))
     else:
-        print("No Birth Year and Gender information for {}".format(city))
+        print("No Birth Year and Gender info for {}".format(city))
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
