@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+May 7, 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+Exploring bikeshare data with Python
 
 ### Files used
-Include the files used
+bikeshare.py
+readme.txt
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Programming for Computations - Python
+A Gentle Introduction to Numerical Simulations with Python
+Svein Linge & Hans Petter Langtangen
