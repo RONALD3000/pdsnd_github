@@ -1,9 +1,9 @@
 
 Books:
-“Essential Python”
+ï¿½Essential Pythonï¿½
 Kevin Vans-Coloina
 
-“Programming for Computations - Python”
+ï¿½Programming for Computations - Pythonï¿½
 A Gentle Introduction to Numerical Simulations with Python
 Svein Linge & Hans Petter Langtangen
 
@@ -11,3 +11,4 @@ Svein Linge & Hans Petter Langtangen
 Web:
 Python.org
 W3schools.com
+Udacity.com/Knowledge 
